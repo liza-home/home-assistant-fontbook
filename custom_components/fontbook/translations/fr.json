@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Fontbook",
+        "description": "Téléversez vos polices une fois et utilisez-les partout dans Home Assistant. Les polices sont enregistrées dans votre dossier de configuration, sous `www/fonts`."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Un seul Fontbook suffit ; il est déjà configuré."
+    }
+  }
+}

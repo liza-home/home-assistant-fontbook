@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Fontbook",
+        "description": "Sube tus fuentes una vez y úsalas en cualquier parte de Home Assistant. Las fuentes se guardan en tu carpeta de configuración, en `www/fonts`."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Solo hace falta un Fontbook y ya está configurado."
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Fontbook",
+        "description": "Schriften einmal hochladen und überall in Home Assistant verwenden. Die Schriften liegen im Konfigurationsordner unter `www/fonts`."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Es wird nur ein Fontbook benötigt; er ist bereits eingerichtet."
+    }
+  }
+}

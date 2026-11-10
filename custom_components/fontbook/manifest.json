@@ -1,0 +1,23 @@
+{
+  "domain": "fontbook",
+  "name": "Fontbook",
+  "codeowners": [
+    "@liza-home"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "http",
+    "frontend",
+    "panel_custom",
+    "websocket_api"
+  ],
+  "documentation": "https://github.com/liza-home/home-assistant-fontbook#readme",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/liza-home/home-assistant-fontbook/issues",
+  "requirements": [
+    "fonttools>=4.50.0"
+  ],
+  "single_config_entry": true,
+  "version": "2026.11.1"
+}

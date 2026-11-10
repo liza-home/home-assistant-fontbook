@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Fontbook",
+        "description": "Upload fonts once and use them anywhere in Home Assistant. Fonts are stored in your configuration folder under `www/fonts`."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Only one Fontbook is needed; it is already set up."
+    }
+  }
+}
